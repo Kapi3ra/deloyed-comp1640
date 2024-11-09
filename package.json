@@ -1,5 +1,5 @@
 {
-  "homepage": "https://P1sCes17.github.io/Comp1640-2.0",
+  "homepage": "https://Kapi3ra.github.io/deloyed-comp1640",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,6 @@
     "predeploy": "npm run build",
     "dev": "vite",
     "build": "vite build",
-    
     "lint": "eslint .",
     "preview": "vite preview"
   },
